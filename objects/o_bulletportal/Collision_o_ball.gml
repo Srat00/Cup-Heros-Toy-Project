@@ -1,0 +1,1 @@
+instance_create_layer(o_player.x, o_player.y, "Instance", o_bullet);
